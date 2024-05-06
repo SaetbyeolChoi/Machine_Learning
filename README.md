@@ -10,11 +10,9 @@ This repository hosts two regression analysis projects using Python: a multivari
 - **Description**: Build and evaluate a linear regression model to predict concrete strength.
 
 ### Logistic Regression on Graduate Admissions
-- **Part 1: Admit Prediction**
-  - **Objective**: Predict the probability of admission (binary outcome) using logistic regression.
-  - **Dataset**:Data: gradadmission.csv
-Part 1: Binary logistic regression to predict admission status.
-Part 2: Multi-class logistic regression to predict undergraduate school rank.
+- **Dataset**: gradadmission.csv
+- Part 1: Binary logistic regression to predict admission status.
+- Part 2: Multi-class logistic regression to predict undergraduate school rank.
 
 ## Tools and Technologies
 - **Python**: For data manipulation, analysis, and model building.
